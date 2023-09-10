@@ -27,7 +27,7 @@ SnakeFoodGame is a classic Snake Game implemented in JavaScript, HTML, and CSS. 
 
 ## Demo
 
-You can play the live demo of SnakeFoodGame [here](link_to_demo).
+You can play the live demo of SnakeFoodGame [here](https://sakshinirmal.github.io/SnakeFoodGame/).
 
 ## Installation
 
